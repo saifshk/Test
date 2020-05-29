@@ -1,0 +1,2 @@
+This is my first line
+Adding second line to file_1
